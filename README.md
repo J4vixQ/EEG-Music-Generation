@@ -32,17 +32,17 @@ Work of my Student Research Project.
 
 ## Files
 
->**Rule 1.mid** use power->pitch range->velocity.
+>**Rule 1.mid** power->pitch, range->velocity.
 >
->**Rule 2.mid** use range->pitch power->velocity.
+>**Rule 2.mid** range->pitch, power->velocity.
 >
->**FX 1.mid** use remove outliers to fix Rule 1.mid
+>**FX 1.mid** remove outliers to fix Rule 1.mid
 >
->**FX 2.mid** use move towards C5 to fix Rule 1.mid
+>**FX 2.mid** move towards C5 to fix Rule 1.mid
 >
->**FX 3.mid** use move towards the previous note to fix Rule 1.mid
+>**FX 3.mid** move towards the previous note to fix Rule 1.mid
 >
->**FX 4.mid** use move away from the neighbour notes to fix Rule 1.mid
+>**FX 4.mid** move away from the neighbour notes to fix Rule 1.mid
 >
 >**LYA_G.mid** self-made midi of melody and chords of <光年之外> by G.E.M in G major.
 >
