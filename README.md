@@ -54,6 +54,8 @@ Work of my Student Research Project.
 
 ## Reference
 
+>**Music Composition from the Brain Signal: Representing the Mental State by Music** https://doi.org/10.1155/2010/267671
+>
 >**miditoolkit** https://github.com/YatingMusic/miditoolkit
 >
 >**chorder** https://github.com/joshuachang2311/chorder
