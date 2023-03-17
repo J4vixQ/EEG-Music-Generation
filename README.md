@@ -2,6 +2,8 @@
 
 Work of my Student Research Project.
 
+![avatar](https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
 ## Notebooks
 
 >**Generation.ipynb** converts brain wave to midi without any consideration of aesthetic feeling.
