@@ -2,7 +2,35 @@
 
 Work of my Student Research Project.
 
-![avatar](https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![avatar](https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/_process.png)
+
+#
+
+**Here are some brief pics/audio to demostrate the key process**
+
+1. Turn brain wave into midi music:
+
+<img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/brainwave_slice.png" alt="brainwave_slice" width="800">
+
+<img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/midi.png" alt="midi" width="800">
+
+2. Count the proportion of notes and determine the scale:
+
+<img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/count_before.png" alt="count_before" width="400"> <img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/count_after.png" alt="count_after" width="400">
+
+3. Move the outlier notes to the scale:
+
+<img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/note_before.png" alt="note_before" width="800">
+
+<img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/note_after.png" alt="note_after" width="800">
+
+4. Extract and detect chord:
+
+<img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/extract_chord.jpeg" alt="extract_chord"> <img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/missing_chords.jpeg" alt="missing_chords"> 
+
+5. Predict the missing chord:
+
+<img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/loss.png" alt="loss" width="400"> <img src="https://github.com/J4vixQ/EEG-Music-Generation/blob/main/files/pic/accuracy.png" alt="accuracy" width="400"> 
 
 ## Notebooks
 
